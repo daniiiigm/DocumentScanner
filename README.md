@@ -34,6 +34,7 @@ Se basa en **detección de esquinas**, generación de **descriptores BRIEF** y *
 │   └── testing/                # Imágenes a procesar
 ├── esquinas.txt                # Coordenadas de las esquinas de referencia
 └── README.md                   # Este archivo
+```
 
 ## 🛠️ Requisitos
 

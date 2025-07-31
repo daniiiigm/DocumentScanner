@@ -47,6 +47,7 @@ Se basa en **detección de esquinas**, generación de **descriptores BRIEF** y *
 
 ```bash
 pip install opencv-contrib-python numpy matplotlib
+```
 
 ## ▶️ Uso
 
@@ -56,11 +57,14 @@ pip install opencv-contrib-python numpy matplotlib
 
 ```bash
 python scanner.py ruta/a/mi_imagen.jpg
+```
 
 Si no se especifica la ruta, se usará por defecto:ç
 
 ```bash
 Muestra/testing/Hoja_01.jpg
+```
+
 
 Si se detectan correctamente al menos 4 esquinas, se abrirá una ventana con la imagen rectificada.
 
